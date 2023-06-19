@@ -1,4 +1,4 @@
-bout this course
+About this course
 10 Hours of React just added. Become a Developer With ONE course - HTML, CSS, JavaScript, React, Node, MongoDB and More!
 By the numbers
 Skill level: All Levels
