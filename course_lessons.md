@@ -4,16 +4,18 @@
 - Colt Steele
 - Developer and Bootcamp Instructor
 
-1. Welcome To The Course!
-2. Joining The Community Chat & Groups
-3. Curriculum Walkthrough
-4. When Was The Course Last Updated?
-5. Course Change Log
-6. Will I Get A Job?
-7. Accessing Course Code & Slides
-8. Tips On The Interactive Coding Exercises
-9. Course Coding Exercise Solutions
-10. Migrating From The Old Version Of This Course
+# Section 01: Course Orientation
+- 1. Welcome To The Course!
+- 2. Joining The Community Chat & Groups
+- 3. Curriculum Walkthrough
+- 4. When Was The Course Last Updated?
+- 5. Course Change Log
+- 6. Will I Get A Job?
+- 7. Accessing Course Code & Slides
+- 8. Tips On The Interactive Coding Exercises
+- 9. Course Coding Exercise Solutions
+- 10. Migrating From The Old Version Of This Course
+
 11. What Matters In This Section?
 12. The Internet in 5 Minutes
 13. Intro to the Web

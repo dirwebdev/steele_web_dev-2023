@@ -4,15 +4,15 @@
 - Colt Steele
 - Developer and Bootcamp Instructor
 
-Section 1: Course Orientation
-Section 2: An Introduction to Web Development
-Section 3: HTML: The Essentials
-Section 4: HTML: Next Steps & Semantics
-Section 5: HTML: Forms & Tables
-Section 6: CSS: The Very Basics
-Section 7: The World of CSS Selectors
-Section 8: The CSS Box Model
-Section 9: Other Assorted Useful CSS Properties
+Section 01: Course Orientation
+Section 02: An Introduction to Web Development
+Section 03: HTML: The Essentials
+Section 04: HTML: Next Steps & Semantics
+Section 05: HTML: Forms & Tables
+Section 06: CSS: The Very Basics
+Section 07: The World of CSS Selectors
+Section 08: The CSS Box Model
+Section 09: Other Assorted Useful CSS Properties
 Section 10: Responsive CSS & Flexbox
 Section 11: Pricing Panel Project
 Section 12: CSS Frameworks: Bootstrap
