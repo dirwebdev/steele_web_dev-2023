@@ -1,19 +1,16 @@
 # .gitattributes
-
+# Custom File Types
+# Add any additional file types you want to track with Git LFS
+# use git lfs track "*.pdf" (use any extension .pdf example) to track
+# use git lfs untrack "*.pdf" (use any extension .pdf example) to untrack
 # PDF Files
 *.pdf filter=lfs diff=lfs merge=lfs -text
 
 # Images
 *.png filter=lfs diff=lfs merge=lfs -text
-*.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpeg filter=lfs diff=lfs merge=lfs -text
 *.gif filter=lfs diff=lfs merge=lfs -text
 *.svg filter=lfs diff=lfs merge=lfs -text
 
 # Zip Files
 *.zip filter=lfs diff=lfs merge=lfs -text
-
-# Custom File Types
-# Add any additional file types you want to track with Git LFS
-# Replace `.ext` with the desired file extension
-# *.ext filter=lfs diff=lfs merge=lfs -text
