@@ -11,4 +11,3 @@
 - 18. OPTIONAL VSCode Theme
 
 ## What matters in This Section?
-
