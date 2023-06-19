@@ -4,7 +4,7 @@
 - Colt Steele
 - Developer and Bootcamp Instructor
 
-# Section 01: Course Orientation
+## Section 01: Course Orientation
 - 1. Welcome To The Course!
 - 2. Joining The Community Chat & Groups
 - 3. Curriculum Walkthrough
@@ -16,14 +16,16 @@
 - 9. Course Coding Exercise Solutions
 - 10. Migrating From The Old Version Of This Course
 
-11. What Matters In This Section?
-12. The Internet in 5 Minutes
-13. Intro to the Web
-14. The Request/Response Cycle
-15. Front-End and Back-End
-16. What do HTML/CSS/JS do?
-17. Setting Up Our Developer Environment
-18. OPTIONAL VSCode Theme
+## Section 02: An Introduction to Web Development
+- 11. What Matters In This Section?
+- 12. The Internet in 5 Minutes
+- 13. Intro to the Web
+- 14. The Request/Response Cycle
+- 15. Front-End and Back-End
+- 16. What do HTML/CSS/JS do?
+- 17. Setting Up Our Developer Environment
+- 18. OPTIONAL VSCode Theme
+
 19. What Matters In This Section
 20. Introduction to HTML
 21. Our Very First HTML Page
